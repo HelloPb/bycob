@@ -1,0 +1,19 @@
+.bycobc-bg-dark {
+  @include bycobm-bg-dark();
+}
+
+.bycobc-bg-normal {
+  @include bycobm-bg-normal();
+}
+
+.bycobc-bg-mid {
+  @include bycobm-bg-mid();
+}
+
+.bycobc-bg-light {
+  @include bycobm-bg-light();
+}
+
+.bycobc-bg-contrast {
+  @include bycobm-bg-contrast();
+}

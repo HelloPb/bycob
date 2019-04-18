@@ -1,0 +1,19 @@
+@mixin bycobm-bg-dark() {
+  background-color: $dark;
+}
+
+@mixin bycobm-bg-normal {
+  background-color: $normal;
+}
+
+@mixin bycobm-bg-mid {
+  background-color: $mid;
+}
+
+@mixin bycobm-bg-light {
+  background-color: $light;
+}
+
+@mixin bycobm-bg-contrast {
+  background-color: $contrast;
+}

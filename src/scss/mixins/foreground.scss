@@ -1,0 +1,19 @@
+@mixin bycobm-text-dark {
+  color: $dark;
+}
+
+@mixin bycobm-text-normal {
+  color: $normal;
+}
+
+@mixin bycobm-text-mid {
+  color: $mid;
+}
+
+@mixin bycobm-text-light {
+  color: $light;
+}
+
+@mixin bycobm-text-contrast {
+  color: $contrast;
+}

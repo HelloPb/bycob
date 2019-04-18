@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { AppState } from './shared';
 
 @Component({
   selector: 'bycob-root',
@@ -7,4 +8,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'byCOB';
+  constructor(public s: AppState) {
+  }
 }
