@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { AppState } from '../shared';
 
 @Component({
-  selector: 'bycob-features',
+  selector: 'bc-features',
   templateUrl: './features.component.html',
   styleUrls: ['./features.component.scss']
 })

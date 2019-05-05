@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { AppState } from '../shared';
 
 @Component({
-  selector: 'bycob-login',
+  selector: 'bc-login',
   templateUrl: './login.component.html',
   styleUrls: ['./login.component.scss']
 })

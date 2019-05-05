@@ -7,7 +7,7 @@
       "root": "",
       "sourceRoot": "src",
       "projectType": "application",
-      "prefix": "bycob",
+      "prefix": "bc",
       "schematics": {
         "@schematics/angular:component": {
           "style": "scss"

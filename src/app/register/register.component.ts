@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { AppState } from '../shared';
 
 @Component({
-  selector: 'bycob-register',
+  selector: 'bc-register',
   templateUrl: './register.component.html',
   styleUrls: ['./register.component.scss']
 })

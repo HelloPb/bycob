@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { AppState } from './shared';
 
 @Component({
-  selector: 'bycob-root',
+  selector: 'bc-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss']
 })
