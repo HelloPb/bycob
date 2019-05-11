@@ -5,10 +5,7 @@ import { FeaturesComponent } from './features.component';
 const routes: Routes = [
   {
     path: '',
-    component: FeaturesComponent,
-    children: [{
-
-    }]
+    component: FeaturesComponent
   }
 ];
 

@@ -8,11 +8,11 @@ const routes: Routes = [
     path: '',
     component: AppComponent,
     pathMatch: 'full',
-    // canActivateChild: [AuthGuard],
+    canActivateChild: [AuthGuard],
     children: [
       {
         path: '',
-        loadChildren: './features/features.module#FeaturesModule'
+        loadChildren: 'src/app/features/features.module#FeaturesModule'
       }
     ]
   }
